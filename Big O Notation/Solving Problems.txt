@@ -1,0 +1,20 @@
+1. Understanding the Problem
+    Can I restate the problem?
+        "Implement addition"
+    What are the input into the problem?
+        - int?
+        - float?
+        - what about string for large numbers?
+    What are the output that should come from the solution to the problem?
+        - int, float, string?
+    Can the outputs be determined from the inputs?
+2. Explore Concrete Examples
+    Start with Simple Examples
+    Progress to More Complex Examples
+    Explore Examples with Empty Inputs
+    Explore Examples with Invalid Inputs
+3. Break It Down
+4. Solve / Simplify
+5. Look Back / Refactor
+6. Devise a plan for solving problems
+7. Master common problem solving patterns
